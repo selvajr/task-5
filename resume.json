@@ -1,0 +1,46 @@
+{
+   "summary":"As a recent undergraduate with a degree in Computer Science and Engineering, I am eager to begin my career and bring my strong academic background and passion for IT field to a dynamic and growing organization",
+   
+    "name": "Selvaraj C",
+    "email": "magicalselva@gmail.com",
+    "phone": "9025062604",
+    "address": "D/no 3, Annai Street, Thalavadi,Erode-638461.",
+   
+    "education": [
+      {
+        "degree" : "Bacholer of Engineering",
+        "University": "Anna University",
+        "Year of passing":"2021",
+        "Specilization":"Computer Science and Engineering"
+          }
+    ],
+    "skills": [
+     "Java",
+     "JavaScript",
+     "HtML5",
+     "CSS3"
+    ],
+    "languages": [
+      {
+        "language": "Tamil",
+        "proficiency": "Fluent"
+      },
+      {
+        "language": "English",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Task Manager App",
+        "description": "A web application for managing tasks and deadlines",
+        "tech_stack": "React, Node.js, MongoDB"
+      },
+      {
+        "name": "Portfolio Website",
+        "description": "Personal website showcasing my projects and skills",
+        "tech_stack": "HTML, CSS, JavaScript"
+      }
+    ]
+  }
+  
